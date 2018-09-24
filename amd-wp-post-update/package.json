@@ -1,0 +1,10 @@
+{
+  "name": "amd-wp-post-update",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.311.0",
+    "claudia-api-builder": "^4.1.1"
+  }
+}

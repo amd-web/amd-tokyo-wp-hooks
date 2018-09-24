@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "amd-wp-post-update-executor",
+    "name": "amd-wp-post-update",
+    "region": "ap-northeast-1"
+  },
+  "api": {
+    "id": "mt8nbnv3p5",
+    "module": "index"
+  }
+}
