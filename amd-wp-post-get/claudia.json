@@ -1,7 +1,7 @@
 {
   "lambda": {
     "role": "amd-wp-post-get-executor",
-    "name": "amd-wp-post-get",
+    "name": "wp-post-get",
     "region": "ap-northeast-1"
   },
   "api": {

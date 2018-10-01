@@ -1,7 +1,7 @@
 {
   "lambda": {
     "role": "amd-wp-post-update-executor",
-    "name": "amd-wp-post-update",
+    "name": "wp-post-update",
     "region": "ap-northeast-1"
   },
   "api": {
